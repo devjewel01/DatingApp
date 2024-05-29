@@ -132,3 +132,5 @@ C:\JewelStation\DatingApp\API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols
 C:\JewelStation\DatingApp\API\bin\Debug\net8.0\Data\UserSeedData.json
 C:\JewelStation\DatingApp\API\bin\Debug\net8.0\AutoMapper.dll
 C:\JewelStation\DatingApp\API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\JewelStation\DatingApp\API\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\JewelStation\DatingApp\API\bin\Debug\net8.0\Newtonsoft.Json.dll
